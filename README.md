@@ -1,7 +1,7 @@
 # Django_Redux_ts__Login_Register_CRUD_no_update
 - here is a project with Django in the back and Redux in the front
 - in the back we have Login, Register and a full CRUD.
-- in the front we have Login, Register and a CRUD.
+- in the front we have Login, Register and a full CRUD.
 
 ## To enter the Back (Django), and install the VE and the requirements.txt file:
 - python -m virtualenv myenv             (once per project)
